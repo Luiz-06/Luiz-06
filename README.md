@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNiZGttNGpkNmE2dGQ5MjZra3pkMnMydmt1ZjJjenZtMWVsMWQ0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Je31eYHe9SvCtGw/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -33,17 +29,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/luiiz.leal/?next=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fonetap%2F%3Fnext%3D%252F%26__coig_login%3D1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/luiz-felipe-sousa-leal-319699304/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<p align="left">Desenvolvedor em constante aprendizado | Explorando novas ferramentas e técnicas | Sempre buscando criar soluções eficientes</p>
+<img src="https://raw.githubusercontent.com/Luiz-06/Luiz-06/output/snake.svg" alt="Snake animation" />
 
 ###
