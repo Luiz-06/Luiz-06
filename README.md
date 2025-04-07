@@ -1,4 +1,3 @@
-# Luiz-Felipe
 <h2 align="left">Hi 👋! My name is Luiz and I'm a student, from Brazil</h2>
 
 ###
@@ -45,8 +44,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Luiz-06/Luiz-06/output/snake.svg" alt="Snake animation" />
+<p align="left">Desenvolvedor em constante aprendizado | Explorando novas ferramentas e técnicas | Sempre buscando criar soluções eficientes</p>
 
 ###
