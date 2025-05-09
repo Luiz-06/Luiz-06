@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A9A9A9&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A9A9A9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+LUIZ+FELIPE;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
@@ -29,4 +29,4 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117&textColor=0D1117)
 ![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117&textColor=0D1117)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A9A9A9&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
