@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A9A9A9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+LUIZ+FELIPE;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=conradont&show_icons=true&count_private=true&hide_border=true&title_color=A9A9A9&icon_color=A9A9A9&text_color=c9d1d9&bg_color=0d1117" alt="Luiz Conrado github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conradont&layout=compact&hide_border=true&title_color=A9A9A9&text_color=A9A9A9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Luiz-06&show_icons=true&count_private=true&hide_border=true&title_color=A9A9A9&icon_color=A9A9A9&text_color=c9d1d9&bg_color=0d1117" alt="Luiz Felipe GitHub stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-06&layout=compact&hide_border=true&title_color=A9A9A9&text_color=A9A9A9&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luiz-06&bg_color=000000&color=A9A9A9&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Luiz-06&bg_color=000000&color=A9A9A9&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/Luiz-06)
  
 ### Main skills:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)
