@@ -1,13 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=add8e6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6e40c9&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+LUIZ+FELIPE;Seja+bem-vindo!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=add8e6&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+LUIZ+FELIPE;Seja+bem-vindo!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Luiz-06&show_icons=true&count_private=true&hide_border=true&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub de Luiz Felipe"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-06&layout=compact&hide_border=true&title_color=6e40c9&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Luiz-06&show_icons=true&count_private=true&hide_border=true&title_color=add8e6&icon_color=add8e6&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub de Luiz Felipe"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-06&layout=compact&hide_border=true&title_color=add8e6&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-[![Gráfico de Atividades no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Luiz-06&bg_color=0d1117&color=6e40c9&line=8e6fd4&point=8e6fd4&area=true&hide_border=true)](https://github.com/Luiz-06)
+[![Gráfico de Atividades no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Luiz-06&bg_color=0d1117&color=add8e6&line=a8c8e6&point=a8c8e6&area=true&hide_border=true)](https://github.com/Luiz-06)
  
 ### Principais habilidades:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)
@@ -29,4 +29,4 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter)
 ![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=add8e6&height=120&section=footer"/>
