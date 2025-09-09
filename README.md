@@ -19,6 +19,7 @@
 ### Ferramentas:
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-0D1117?style=for-the-badge&logo=fastapi)
 
 ### Outros conhecimentos:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)&nbsp;
